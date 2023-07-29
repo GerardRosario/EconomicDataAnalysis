@@ -15,4 +15,4 @@ Running an economic data analysis using the Federal Reserve Economic Data (FRED)
 
 ![FRED3](https://github.com/GerardRosario/EconomicDataAnalysis/assets/55461102/cc4ceb64-c259-4719-8a47-afc7ae148a86)
 
-
+![FRED4](https://github.com/GerardRosario/EconomicDataAnalysis/assets/55461102/9ccd4555-d850-4ece-a1e1-bfba236319a8)
